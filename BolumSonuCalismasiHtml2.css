@@ -1,0 +1,25 @@
+/********************   Layout  ********************/
+
+body {background-color: rgb(230, 216, 216);
+color: white;
+}
+
+h2  {
+    color:red ;
+    font-size: 30px;
+}
+p ,li   {
+    color:purple ;
+    font-size: 25px;
+}
+address {
+    color: magenta;
+    font-size: 24px;
+}
+a {
+    color: blue;
+    font-size: 18px;
+}
+ul {
+    color: blue;
+}
